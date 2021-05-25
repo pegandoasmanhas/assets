@@ -1,3 +1,3 @@
 # assets
 
-![Image](./assets/Diagram.svg)
+![Image](./diagrams/Diagram.svg)
